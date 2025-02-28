@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/slimeMaster_server.props" />
+</Project>
