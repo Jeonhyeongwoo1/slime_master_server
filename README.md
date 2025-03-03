@@ -10,8 +10,8 @@
    -서버 : ASP.NET
    -저장소 : Firebase
 - Github 주소
-    - 클라이언트 - https://github.com/Jeonhyeongwoo1/SlimeMaster
-    - 서버 - https://github.com/Jeonhyeongwoo1/slime_master_server
+  - 클라이언트 - https://github.com/Jeonhyeongwoo1/SlimeMaster
+  - 서버 - https://github.com/Jeonhyeongwoo1/slime_master_server
  
 ### [ASP.NET](http://ASP.NET)  API 요청 처리 흐름
 <div align="center">
