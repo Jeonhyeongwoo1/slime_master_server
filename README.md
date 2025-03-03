@@ -1,17 +1,16 @@
 ## 개요
 
 - 개발 기간
-    - 2024.11.1 ~12.1
+    - 2024.11.1 ~ 12.1
 - 개발 인원
     - 1인
 - 목표 : 확장성, 유지 보수를 고려한 API 설계
 - 목적 : Unity 클라이언트에서 유저 데이터를 저장하고 관리할 수 있는 백엔드 구축
 - 기술 :
-   -서버 : ASP.NET
-   -저장소 : Firebase
-- Github 주소
-  - 클라이언트 - https://github.com/Jeonhyeongwoo1/SlimeMaster
-  - 서버 - https://github.com/Jeonhyeongwoo1/slime_master_server
+    - 서버 : ASP.NET
+    - 저장소 : Firebase
+- 클라이언트 Github 주소
+    - https://github.com/Jeonhyeongwoo1/SlimeMaster
  
 ### [ASP.NET](http://ASP.NET)  API 요청 처리 흐름
 <div align="center">
