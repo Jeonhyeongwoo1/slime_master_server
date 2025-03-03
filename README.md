@@ -28,3 +28,11 @@
     - 유저 데이터 가공 및 읽기, 쓰기
 - Firebase :
     - 유저 데이터 저장
+ 
+### JWT 인증 및 보안
+
+- JWT 구현
+    - JWT를 만들때 Key가 필요하므로 config.json에 Key 값을 미리 생성하여 저장한다.
+    - 파이어베이스를 활용하기 때문에 UID를 기준으로 토큰 생성
+    - 관련 코드
+    - https://github.com/Jeonhyeongwoo1/slime_master_server/blob/main/slimeMaster_server/Services/AuthService.cs
